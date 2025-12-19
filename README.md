@@ -39,10 +39,4 @@ Placify addresses this issue by bringing everything under one roof—a unified s
 6. Import the SQL dump from: `placement-portal/database/db1.sql`
 7. In a browser, navigate to: `http://localhost/placement-portal`
 
----
-
-## Team Members
-
-- Aditya Sharma 
-- Ankit Garg
 
